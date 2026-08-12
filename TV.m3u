@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:20,ABC 
+#EXTVLCOPT:network-caching=1000
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="NBC.us@East",NBC 
+http://stream.cammonitorplus.net/1785/index.m3u8
+#EXTINF:0,NBA TV 
+#EXTVLCOPT:network-caching=1000
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,NFL Channel 
+#EXTVLCOPT:network-caching=1000
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+#EXTINF:0,UFC 
+#EXTINF:-1 tvg-id="",UFC  
+https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",PFL 
+https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca@SD",Fight Network 
+https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us@US",World Poker Tour 
+https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:54,Vice News 
+#EXTVLCOPT:network-caching=1000
+https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",ION 
+https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
+#EXTINF:59,Comet 
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:54,Bounce XL 
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="",Crunchyroll 
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+#EXTINF:-1 tvg-id="",DAZN Ringside
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US",Documentary+ 
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+#EXTINF:0,Fear Factor 
+#EXTVLCOPT:network-caching=1000
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:60,FilmRise Anime 
+#EXTVLCOPT:network-caching=1000
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="",FOX Sports 
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+#EXTINF:60,Gordon Ramsay 
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+#EXTINF:0,Hallmark Movies & More  
+#EXTVLCOPT:network-caching=1000
+https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
+#EXTINF:-1 tvg-id="",Hardcore Pawn 
+https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:30,HSN 
+#EXTVLCOPT:network-caching=1000
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:48,Hungry 
+#EXTVLCOPT:network-caching=1000
+https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",JoJo's Bizarre Adventure 
+https://d2kqaqstkr42e1.cloudfront.net/playlist.m3u8
+#EXTINF:186,Lego Channel 
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/stvp-GBBC4300005AL
+#EXTINF:54,MagellanTV Now 
+#EXTVLCOPT:network-caching=1000
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/1280px-2010_Disney_Channel_logo.svg.png" ,Disney Channel
+#EXTVLCOPT:http-referrer=https://vaughn.live/thatsodisney
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://stream-cdn-iad3.vaughnsoft.net/play/live_thatsodisney.flv
+#EXTINF:-1 tvg-id="",Nick 90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+#EXTINF:-1 tvg-id="",Nick 90s Kids 2
+https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+#EXTINF:25,Paramount Movie Channel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="C2.50.tunarr.com" tvg-name="Nickelodeon" tvg-logo="https://img.icons8.com/color/1200/nickelodeon.jpg" ,Nickelodeon
+#EXTVLCOPT:http-referrer=https://vaughn.live/nickpicks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://stream-cdn-iad3.vaughnsoft.net/play/live_nickpicks.flv
+#EXTINF:0,Spike TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
+#EXTINF:-1 tvg-id="",00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+#EXTINF:25,Action
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+#EXTINF:25,Anime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+#EXTINF:-1 tvg-id="VH1.us@East",VH1 
+http://40.160.24.55/VH1/index.m3u8
+#EXTINF:0,Backcountry
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
+#EXTINF:0,Cars
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c12ba66eae03059cbdc77f2.m3u8
+#EXTINF:0,Comedy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8
+#EXTINF:0,Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
+#EXTINF:0,Crime Movies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
+#EXTINF:0,Cult Films
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
+#EXTINF:0,Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
+#EXTINF:0,Fantastic
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
+#EXTINF:0,Game Shows
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
+#EXTINF:25,History
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+#EXTINF:0,Horror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:-1 tvg-id="4gtv-720" tvg-name="G4TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/G4_logo_2021.svg/960px-G4_logo_2021.svg.png",G4TV
+https://stream.4gtv.live/hls/720p/720p.m3u8
+#EXTINF:0,Military
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
+#EXTINF:-1 tvg-id="",Modern Marvels by HISTORY 
+https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
+#EXTINF:60,America’s Funniest Home Videos 
+#EXTVLCOPT:network-caching=1000
+https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
+#EXTINF:25,Comedy Central
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+#EXTINF:0,BET
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+#EXTINF:-1 tvg-id="CNdeeznuts" tvg-chno="55" tvg-name=Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTVLCOPT:http-referrer=https://vaughn.live/cnclassic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cnclassic.flv
+#EXTINF:-1 tvg-id="C1.49.tunarr.com" tvg-name="Cartoon Cartoons" tvg-logo="" tvg-chno="56" group-title="",Cartoon Cartoons
+#EXTVLCOPT:http-referrer=https://cartooncartoons.thatsoretro.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cartooncartoons.thatsoretro.com/hls/0/stream.m3u8
+#EXTINF:-1, RetroBlast
+https://retroblast.tv/hls/stream.m3u8
+#EXTINF:-1, [swim rewind]
+https://swimrewind.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Toonami Aftermath" tvg-logo="" group-title="",Toonami Aftermath
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=872793,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=640x480
+http://asp8.toonamiaftermath.com:1934/livehttporigin/est/4vQCmF-k1pmZf-chunklist.m3u8
