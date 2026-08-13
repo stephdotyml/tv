@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2D7E7925-452E-4F15-A6F8-C8F1405576EB/3-1x1.png" tvg-id="LN_2D7E7925-452E-4F15-A6F8-C8F1405576EB" group-title="More Cities",LEX18 (WLEX)
 https://tinyurl.com/3mra3r6v
 #EXTINF:-1 tvg-chno="2" tvg-id="KXAS-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="TV",NBC
