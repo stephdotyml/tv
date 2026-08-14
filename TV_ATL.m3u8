@@ -86,7 +86,7 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="MS.NOW.HD.us2" tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MSNBC_logo_%282009-2015%29.svg/960px-MSNBC_logo_%282009-2015%29.svg.png" group-title="TV",MSNBC
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/29.ts
-#EXTINF:-1 tvg-chno="42" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="TV",Hallmark Mysterie & Movies
+#EXTINF:-1 tvg-chno="42" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="TV",Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/GiaoFQD.png" group-title="TV",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -148,7 +148,7 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/79.ts
 #EXTINF:-1 tvg-chno="133" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_logo.png/960px-HBO_Zone_logo.png" group-title="TV",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-chno="134" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hallmark_Movie_Channel.svg/960px-Hallmark_Movie_Channel.svg.png" group-title="TV",Hallmark Movie Channel
+#EXTINF:-1 tvg-chno="134" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hallmark_Movie_Channel.svg/960px-Hallmark_Movie_Channel.svg.png" group-title="TV",Hallmark Mystery & Movies
 https://gpuserver4.tier1streams.com/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/960px-Science_Channel_logo.svg.png" group-title="TV",Science Channel
 https://gpuserver7.tier1streams.com/SCIENCE_SD/index.m3u8
