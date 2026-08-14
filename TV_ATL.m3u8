@@ -86,7 +86,7 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="MS.NOW.HD.us2" tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MSNBC_logo_%282009-2015%29.svg/960px-MSNBC_logo_%282009-2015%29.svg.png" group-title="TV",MSNBC
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/29.ts
-#EXTINF:-1 tvg-chno="42" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="TV",Hallmark Channel
+#EXTINF:-1 tvg-chno="42" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="TV",Hallmark Mysterie & Movies
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/GiaoFQD.png" group-title="TV",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
