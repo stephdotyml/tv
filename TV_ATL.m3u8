@@ -35,7 +35,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82633.ts
 #EXTINF:-1 tvg-chno="17" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="TV",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="SundanceTV.HD.us2" tvg-name="Sundance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sundance_Channel.svg/1920px-Sundance_Channel.svg.png" group-title="TV",Sundance Channel
-https://gpuserver5.tier1streams.com/SUNDANCE/index.m3u8
+https://gpuserver7.tier1streams.com/SUNDANCE_SD/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cozi_TV_2013_Logo.svg/960px-Cozi_TV_2013_Logo.svg.png" group-title="TV",Cozi TV
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8556.ts
 #EXTINF:-1 tvg-chno="20" tvg-id="WKPCDT2.us@SD" tvg-name="KET 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alt_Shiny_PBS_Stacked.svg/960px-Alt_Shiny_PBS_Stacked.svg.png" group-title="TV",KET 2
@@ -107,7 +107,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/87.ts
 #EXTINF:-1 tvg-chno="51" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Syfy_Universal_%28cropped%29.png/960px-Syfy_Universal_%28cropped%29.png" group-title="TV",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="TV",Smithsonian Channel
-https://gpuserver5.tier1streams.com/SMITHSONIAN/index.m3u8
+https://gpuserver7.tier1streams.com/SMITHSONIAN_SD/index.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/960px-Comedy_Central_2011_Logo.svg.png" group-title="TV",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BET_logo_2010-2021.svg/960px-BET_logo_2010-2021.svg.png" group-title="TV",BET
@@ -127,9 +127,9 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Food-Network-Logo.svg/960px-Food-Network-Logo.svg.png" group-title="TV",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Oxygen_2008.png" group-title="TV",Oxygen
-https://gpuserver7.tier1streams.com/OXYGEN_SD/index.m3u8
+https://gpuserver5.tier1streams.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TV_Land_2009.svg/960px-TV_Land_2009.svg.png" group-title="TV",TV Land
-https://gpuserver5.tier1streams.com/TV_LAND/index.m3u8
+https://gpuserver7.tier1streams.com/TV_LAND_SD/index.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/250px-Discovery_Channel_logo_2009.svg.png" group-title="TV",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/960px-CNBC_logo.svg.png" group-title="TV",CNBC
@@ -149,7 +149,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/79.ts
 #EXTINF:-1 tvg-chno="133" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_logo.png/960px-HBO_Zone_logo.png" group-title="TV",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-chno="134" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hallmark_Movie_Channel.svg/960px-Hallmark_Movie_Channel.svg.png" group-title="TV",Hallmark Mystery & Movies
-https://gpuserver4.tier1streams.com/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/85.ts
 #EXTINF:-1 tvg-chno="135" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/960px-Science_Channel_logo.svg.png" group-title="TV",Science Channel
 https://gpuserver7.tier1streams.com/SCIENCE_SD/index.m3u8
 #EXTINF:-1 tvg-chno="398" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Boomerang_tv_logo_%282000%29.svg/960px-Boomerang_tv_logo_%282000%29.svg.png" group-title="TV",Boomerang
@@ -167,7 +167,7 @@ https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://i.imgur.com/LAcmgv6.png" tvg-id="MTV2.us",MTV2
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 tvg-chno="602" tvg-id="Me.TV.Network.us2" tvg-name="MeTV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="TV",MeTV
-https://gpuserver4.tier1streams.com/METV/index.m3u8
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8555.ts
 #EXTINF:-1 tvg-chno="603" tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s159817_dark_360w_270h.png" group-title="TV",MeTV Toons
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/99108.ts
 #EXTINF:-1 tvg-id="C1.49.tunarr.com" tvg-name="Cartoon Cartoons" tvg-logo="https://cartooncartoons.thatsoretro.com/logo" tvg-chno="700" group-title="",Cartoon Cartoons
