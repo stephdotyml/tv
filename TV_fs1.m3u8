@@ -1,4 +1,0 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-
-#EXTINF:-1 tvg-chno="8" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/250px-Fox_Sports_logo1.svg.png" group-title="TV",Fox Sports 1
-https://cdn.telecloud.tv/CH3223/index.m3u8
