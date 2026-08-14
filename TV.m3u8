@@ -179,4 +179,4 @@ https://retroblast.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-chno="801" tvg-name="Toonami Aftermath" tvg-logo="https://avatars.akamai.steamstatic.com/ef12b89daf22e0285520732c6ea717223d2bce0d_full.jpg" group-title="",Toonami Aftermath
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=872793,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=640x480
-http://asp8.toonamiaftermath.com:1934/livehttporigin/est/4vQCmF-k1pmZf-chunklist.m3u8
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
