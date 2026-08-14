@@ -15,7 +15,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8271.ts
 #EXTINF:-1 tvg-chno="7" tvg-id="WFLD-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="TV",Fox
 http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/250px-Fox_Sports_logo1.svg.png" group-title="TV",Fox Sports 1
-https://cdn.telecloud.tv/CH3223/index.m3u8
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8 
 #EXTINF:-1 tvg-chno="9" tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CBS_Eye_%28Didot%29.svg/960px-CBS_Eye_%28Didot%29.svg.png" group-title="TV",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="KMBC-DT.us_locals1" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/960px-ABC_%282013%29_Dark_Grey.svg.png" group-title="TV",ABC
