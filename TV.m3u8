@@ -129,7 +129,7 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Oxygen_2008.png" group-title="TV",Oxygen
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/74452.ts
 #EXTINF:-1 tvg-chno="62" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TV_Land_2009.svg/960px-TV_Land_2009.svg.png" group-title="TV",TV Land
-https://restream-live.realiptv.to/Marky0416/2c1744538b/614330
+https://ccctv.xyz:2096/live/n24/SUZsBNHv12/154.ts
 #EXTINF:-1 tvg-chno="63" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/250px-Discovery_Channel_logo_2009.svg.png" group-title="TV",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/960px-CNBC_logo.svg.png" group-title="TV",CNBC
