@@ -35,7 +35,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82633.ts
 #EXTINF:-1 tvg-chno="17" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="TV",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="SundanceTV.HD.us2" tvg-name="Sundance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sundance_Channel.svg/1920px-Sundance_Channel.svg.png" group-title="TV",Sundance Channel
-https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8546.ts
+https://restream-live.realiptv.to/09145054/65339468/3759
 #EXTINF:-1 tvg-chno="19" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cozi_TV_2013_Logo.svg/960px-Cozi_TV_2013_Logo.svg.png" group-title="TV",Cozi TV
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8556.ts
 #EXTINF:-1 tvg-chno="20" tvg-id="WKPCDT2.us@SD" tvg-name="KET 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alt_Shiny_PBS_Stacked.svg/960px-Alt_Shiny_PBS_Stacked.svg.png" group-title="TV",KET 2
@@ -45,7 +45,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/78008.ts
 #EXTINF:-1 tvg-chno="22" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Ion_Television_2013.png" group-title="TV",ION TV
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="TV",ESPN
-https://cdn.telecloud.tv/CH3257/index.m3u8
+https://restream-live.realiptv.to/09145054/65339468/3725
 #EXTINF:-1 tvg-chno="24" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="TV",ESPN2
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/82402.ts
 #EXTINF:-1 tvg-chno="25" tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="TV",AXS TV
@@ -107,7 +107,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/87.ts
 #EXTINF:-1 tvg-chno="51" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Syfy_Universal_%28cropped%29.png/960px-Syfy_Universal_%28cropped%29.png" group-title="TV",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="TV",Smithsonian Channel
-https://ccctv.xyz:2096/live/n24/SUZsBNHv12/127.ts
+https://restream-live.realiptv.to/09145054/65339468/3812
 #EXTINF:-1 tvg-chno="53" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/960px-Comedy_Central_2011_Logo.svg.png" group-title="TV",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BET_logo_2010-2021.svg/960px-BET_logo_2010-2021.svg.png" group-title="TV",BET
@@ -145,7 +145,7 @@ https://ccctv.xyz:2096/live/n24/SUZsBNHv12/28591.ts
 #EXTINF:-1 tvg-chno="131" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="TV",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-chno="132" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="TV",FX Movie Channel
-https://ccctv.xyz:2096/live/n24/SUZsBNHv12/79.ts
+https://restream-live.realiptv.to/09145054/65339468/3736
 #EXTINF:-1 tvg-chno="133" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_logo.png/960px-HBO_Zone_logo.png" group-title="TV",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-chno="134" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Starz_2008.svg/960px-Starz_2008.svg.png" group-title="TV",Starz
