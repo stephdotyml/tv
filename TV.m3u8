@@ -5,11 +5,11 @@ https://tinyurl.com/3mra3r6v
 #EXTINF:-1 tvg-chno="2" tvg-id="KXAS-DT.us_locals1" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/8/82/NBC_logo_%282013%29.svg/500px-NBC_logo_%282013%29.svg.png" group-title="TV",NBC
 http://stream.cammonitorplus.net/1765/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="TV",NBA TV
-http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" group-title="TV",NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="WPIX-DT.us_locals1" tvg-name="CW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/960px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="TV",The CW
-https://restream-live.realiptv.to/09145054/65339468/3115
+https://tvsen6.aynaott.com/pix11/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="TV",MLB Network
 https://ccctv.xyz:2096/live/n24/SUZsBNHv12/8271.ts
 #EXTINF:-1 tvg-chno="7" tvg-id="WFLD-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="TV",Fox
@@ -59,7 +59,7 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="That's So Disney" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/1280px-2010_Disney_Channel_logo.svg.png" group-title="TV",Disney Channel
 https://stream-cdn-iad3.vaughnsoft.net/play/live_thatsodisney.flv
 #EXTINF:-1 tvg-chno="29" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA Network
-https://ccctv.xyz:2096/live/n24/SUZsBNHv12/156.ts
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="TV",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="TV",Vice TV
@@ -121,7 +121,7 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
-https://ccctv.xyz:2096/live/n24/SUZsBNHv12/4711.ts
+https://restream-live.realiptv.to/09145054/65339468/2491
 #EXTINF:-1 tvg-chno="59" tvg-id="National.Geographic.HD.us2" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/960px-National_Geographic_Channel.svg.png" group-title="TV",National Geographic Channel
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Food-Network-Logo.svg/960px-Food-Network-Logo.svg.png" group-title="TV",Food Network
