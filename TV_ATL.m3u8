@@ -153,7 +153,7 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hallmark_Movie_Channel.svg/960px-Hallmark_Movie_Channel.svg.png" group-title="TV",Hallmark Mystery & Movies
 https://d9.goaltend.xyz/channel/1799
 #EXTINF:-1 tvg-chno="136" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/960px-Science_Channel_logo.svg.png" group-title="TV",Science Channel
-https://d9.goaltend.xyz/channel/1957
+http://10k.lucastv.pro:80/bMzUj4zG/eR7gYGT/328940
 #EXTINF:-1 tvg-chno="398" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Boomerang_tv_logo_%282000%29.svg/960px-Boomerang_tv_logo_%282000%29.svg.png" group-title="TV",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-chno="399" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Cartoon_Network_HD_%28MENA%29.svg/960px-Logo_of_Cartoon_Network_HD_%28MENA%29.svg.png" group-title="TV",Cartoon Network HD
