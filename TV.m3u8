@@ -161,7 +161,10 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="400" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/960px-Nick_HD_Logo.svg.png" group-title="TV",Nickelodeon HD
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-chno="401" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/960px-Disney_Channel_2014_HD.png" group-title="TV",Disney Channel HD
-https://d9.goaltend.xyz/channel/1970
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=312
+#EXTVLCOPT:http-origin=https://hamis.romponalis.st/premiumtv/daddy3.php?id=312
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://xameleon.phantemlis.top/three/secure/eb46b53a57c06083325599ff2761d85a/1787754638/premium312/index.m3u8
 #EXTINF:-1 tvg-chno="402" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://i.imgur.com/TFvs7xO.png" tvg-id="SpikePlutoTV.us@SD",Spike TV Classic
