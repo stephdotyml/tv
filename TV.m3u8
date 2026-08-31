@@ -35,13 +35,13 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 #EXTINF:-1 tvg-chno="16" tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/960px-Logo_of_C-SPAN.svg.png" group-title="TV",C-SPAN
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cache0.wonvt.st/live/1fa02mz0k6oeg703x2j1p/master.m3u8
+https://cache0.wonvt.st/live/1fa02mz0k6oeg703x2j1p/master.m3u8											  
 #EXTINF:-1 tvg-chno="17" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="TV",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="SundanceTV.HD.us2" tvg-name="Sundance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sundance_Channel.svg/1920px-Sundance_Channel.svg.png" group-title="TV",Sundance Channel
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cache0.wonvt.st/live/0b7wui00zw4twq0p1cobf/master.m3u8
+https://cache0.wonvt.st/live/0b7wui00zw4twq0p1cobf/master.m3u8										  
 #EXTINF:-1 tvg-chno="19" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cozi_TV_2013_Logo.svg/960px-Cozi_TV_2013_Logo.svg.png" group-title="TV",Cozi TV
 https://d9.goaltend.xyz/channel/2091
 #EXTINF:-1 tvg-chno="20" tvg-id="WKPCDT2.us@SD" tvg-name="KET 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alt_Shiny_PBS_Stacked.svg/960px-Alt_Shiny_PBS_Stacked.svg.png" group-title="TV",KET 2
@@ -67,9 +67,7 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="That's So Disney" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/1280px-2010_Disney_Channel_logo.svg.png" group-title="TV",Disney Channel
 https://stream-cdn-iad3.vaughnsoft.net/play/live_thatsodisney.flv
 #EXTINF:-1 tvg-chno="29" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA Network
-#EXTVLCOPT:http-referrer=https://tvnow.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cache0.wonvt.st/live/0hzz30t0ddti3x1upnrpx/master.m3u8
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="TV",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="TV",Vice TV
@@ -83,9 +81,9 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="https://i.imgur.com/OfjK9Ym.png" group-title="TV",HLN TV
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" group-title="TV",Showtime
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Showtime&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb465/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDY1OjE3ODc5NDAwMzkyODA6Y2RubGl2ZXR2LnR2OmY3OGUzZDdiZjA0YWZiYmIuODA5OGRmMDZlNWU3YWIwMmE4MDQ3YWYyZGNmNDUxMTBjMzUxY2UzNGVjOGY0Zjc2NWVhMTIwNmE5NDY4NDc5Yg
+https://cache0.wonvt.st/live/1az2pv01wqk8zi11yns1c/master.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png" group-title="TV",CNN
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/cnn-live
 https://p1.usnlive.com/stream/cnn.m3u8
@@ -115,8 +113,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cache0.wonvt.st/live/1d71n4f00wthy417fl2g4/master.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb29d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjlkOjE3ODc5NDAwMzQwNjg6Y2RubGl2ZXR2LnR2OjEzMGIxMGQwZDA0NThhNjguYmNlOGQxMDIxNTA0MWUwNWQwNDQ4Y2RiYThjYTRkMDg0Njk2NmNlNzJlMTIyZmVmMjBjODNmMTk5NmY0NzhiYw
 #EXTINF:-1 tvg-chno="49" tvg-id="4gtv-720" tvg-name="G4TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/G4_logo_2021.svg/960px-G4_logo_2021.svg.png",G4TV
 https://stream.4gtv.live/hls/720p/720p.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/960px-History_Logo_2008-2015.svg.png" group-title="TV",History Channel
@@ -128,9 +124,9 @@ https://d9.goaltend.xyz/channel/1664
 #EXTINF:-1 tvg-chno="53" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/960px-Comedy_Central_2011_Logo.svg.png" group-title="TV",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BET_logo_2010-2021.svg/960px-BET_logo_2010-2021.svg.png" group-title="TV",BET
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=BET&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb200/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjAwOjE3ODc5NDAwMjkwNDk6Y2RubGl2ZXR2LnR2OjAzZjdiMTlkYzBhYzAxYzUuMjFiM2UxNDNhZDVlMzliMGFiMGYyOWMxNDEzYTNmMDQyNmYyOTEzNTQzOWI4ZWM5MTMzZWYzZGY2ZDUyOTk3OA
+https://cache0.wonvt.st/live/1a3of01189opd41qnda9f/master.m3u8
 #EXTINF:-1 tvg-id="CNdeeznuts" tvg-chno="55" tvg-name=Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 #EXTVLCOPT:http-referrer=https://vaughn.live/cnclassic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -140,9 +136,9 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=HBO&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd347/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzQ3OjE3ODc5NDAwMzUyODA6Y2RubGl2ZXR2LnR2OjdmYzJjZjVhNzEwNjFlNjIuODMyNWE3ZWU3ZjQyOGM1Y2E4MDVhMjQ0MjA0NDFkNmMzZTIwZWEwZmE2N2U0NTBlMDM1MWM2N2RiMWM2NGI1OQ
+https://cache0.wonvt.st/live/0vyvl7y1gwwplb0m12enw/master.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="National.Geographic.HD.us2" tvg-name="Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/960px-National_Geographic_Channel.svg.png" group-title="TV",National Geographic Channel
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Food-Network-Logo.svg/960px-Food-Network-Logo.svg.png" group-title="TV",Food Network
@@ -196,7 +192,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-chno="401" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/960px-Disney_Channel_2014_HD.png" group-title="TV",Disney Channel HD
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Disney+Channel&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb415/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDE1OjE3ODc5NDAwMjYwNzk6Y2RubGl2ZXR2LnR2OmFiNjc0NjQ2NTJmM2E1ODAuZGJhOGYyYTM4NTU5ZTkxMGQwMTFmOGUyZDk2MTc1ZDU3ZDZjZGJiMjZhODdiZWIzYzdmZGE0MzBhYjhkZTkwMg
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb415/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDE1OjE3ODgxOTU2NTE2NDg6Y2RubGl2ZXR2LnR2OmRjMGU2NTllMmUzODQ3MDcuNTFkMmIzODExNTBkN2M5ZmM5ZTQ4NDAwMjJiZWNhYTVhYmZhNzI4M2Q2NmM1YjlkODk2Mzk4YjZkZDRhNzU4NA
 #EXTINF:-1 tvg-chno="402" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-chno="600" tvg-logo="https://i.imgur.com/TFvs7xO.png" tvg-id="SpikePlutoTV.us@SD",Spike TV Classic
